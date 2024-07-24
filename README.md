@@ -2,6 +2,9 @@ This Java application demonstrates basic CRUD (Create, Read, Update, Delete) ope
 The application connects to a database and provides functionalities to insert, delete, update, search, and display all records in a specified table. 
 This project is ideal for understanding the fundamentals of database interaction in Java.
 
+![Output1](https://github.com/user-attachments/assets/7bb33b75-51b9-405b-8299-7d456a9cf196)
+
+
 Features
 Insert: Add new records to the database.
 Delete: Remove records from the database.
